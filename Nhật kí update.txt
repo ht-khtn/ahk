@@ -1,0 +1,20 @@
+----------------------------------------------------------------------
+AHK 6.9.7:
+-Fix lỗi nút Chuyển giữa video và bài học bị ẩn
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+AHK 6.9.6:
+-Fix lỗi nút Chuyển giữa video và bài học ko hoạt động
+-Thêm menu:
+	+Trang chủ
+	+Cài đặt (chung: thay đổi hình nền, thay đổi màu sắc menu)
+	+Phản hồi
+-Thông tin: thêm kiểm tra cập nhật, nhật kí cập nhật
+-Lý thuyết: xóa bỏ xem danh sách bài học
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+AHK 6.4.2: 
+-Yêu cầu người dùng nhập thông tin khi lần đầu chạy ứng dụng
+-Thay đổi giao diện (theo App Inventor) từ classic sang DeviceDefault (Áp dụng cho thanh tiêu đề màn hình, texttex, thông báo, ...)
+-Kiểm tra kết nối Internet
+----------------------------------------------------------------------
